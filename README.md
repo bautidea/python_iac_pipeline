@@ -1,5 +1,7 @@
 # Data pipeline using Python IaC
 
+<img src='./img/Iac.png'>
+
 Simple project carried out to understand how to create a pipeline and how it works.
 
 Built a data pipeline using Python infrastructure as a code (IaC), between an Amazon S3 Bucket and a cluster from Amazon Redshift.
