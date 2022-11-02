@@ -1,5 +1,6 @@
 # Data pipeline using Python IaC
 
+<p align="center">
 <img src='./img/Iac.png'>
 
 Simple project carried out to understand how to create a pipeline and how it works.
